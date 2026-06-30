@@ -1,81 +1,61 @@
-
-<img alt="Coding" style="border-radius:16px;" src="./images/background.png">
-
-<h3 align="center" style="margin-top: 4px;">Hi there, I'm Khalilullah Saddiqui! AKA khalilSediq 👋, <span style="text-transform:uppercase;"> A Developer and Software Engineer.</span></h3>	
-
-<p>
-
-I have professional experience building WordPress websites and spent the last year working as a Computer Teacher. Teaching helped me get really good at explaining technical concepts and solving problems logically.
-
-Right now, I’m focused on moving into full-scale software engineering. I’m actively building projects with JavaScript, React.js, and React Native to sharpen my web and mobile development skills.
-
-I use this GitHub to host my work and track my progress. Check out my repositories to see what I’m building, and feel free to reach out if you want to collaborate.</p>
-
-| Currently Learning | Autogen, LangGraph, Flutter | JavaScript | React
-| ------------------ | --------- |
-	
 <p align="center">
-	<a href="" align="center" target="_blank"
-		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
-		PORTFOLIO WEBSITE</a>
+  <a href="https://khalilullahsadique.vercel.app/" target="_blank">
+    <img alt="Khalilullah Sadique — Tech Hub" src="./images/banner.png" style="border-radius:16px;" />
+  </a>
 </p>
 
-<hr>
-<h3 align="left">📫 Connect with me on 🔗 :</h3>
+<h1 align="center">Khalilullah Sadique</h1>
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/khalilullah-sadique-17592825a/" target="blank"><img align="center"
-			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="" target="blank" style="padding:8px">
-	<img align="center" style="margin:8px"
-			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-	<a href="https://www.instagram.com/khalilullahsadique/" target="blank" style="padding:8px">
-	<img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="khalilSediq" height="50" width="50" /></a>
-	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="khalilSediq" align="right" />
-</p>
-<hr>
-
-<h3 align="left">Languages and Tools ⚙️ : </h3>
-
-<p align='center'>
-	<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-	<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,postgres" />
-	<img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts" />
-	<img src="https://skillicons.dev/icons?i=postman,vercel" />
-	<img src="https://skillicons.dev/icons?i=redux,md,materialui,firebase" />
-	<a href="#">
-		<img alt="GitHub" title="GitHub" width="40" height="40" src="./images/github.png" style="padding-right:5px;" />
-	</a>
-	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
-		<img src="./images/nextjs.png" alt="nextjs" width="45" height="45" />
-	</a>
-	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
-		<img src="./images/icons8-npm-48.png" alt="NPM" width="40" height="40" />
-	</a>
-	<a href="https://socket.io/" target="_blank" rel="noreferrer"
-		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
-		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
-	</a>
-	<a href="https://formik.org/" target="_blank" title="Build Form in REACT" style="text-decoration: none;">
-		<img src="./images/formik.png" width="40px" />
-	</a>
-	<img src="https://skillicons.dev/icons?i=solidity,nestjs,threejs,tensorflow,docker" />
-	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,webflow,jest" />
-	<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws" />
-	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
-		style="text-decoration: none;">
-		<img src="./images/dialogflow.png" width="40px" />
-	</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/khalilullah-sadique-17592825a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://khalilullahsadique.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:khalilullahsadique1334@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=KhalilullahSadique&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
+I am a full-stack engineer focused on backend systems, concurrency, and performance. Most of my time is spent writing Go, building web and mobile apps, and figuring out how to make services run faster and scale without breaking.
 
-### 📈 GitHub Analytics
+Right now, I am running engineering at **ErgonDevs** and building native mobile apps and concurrent backends.
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khalilsediq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khalilsediq&layout=compact&theme=radical" alt="Top Languages" />
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend & Systems** | Golang, Node.js, gRPC, PostgreSQL, MongoDB |
+| **Frontend & Mobile** | React, React Native, TypeScript, JavaScript (ES6+) |
+| **DevOps & Infrastructure** | Docker, Nginx, Systems Architecture |
+
+---
+
+## 🚀 Projects & Ventures
+
+### ErgonDevs
+Founder & Lead Engineer. Architecting MVP products, setting up automated deployment pipelines, and managing infrastructure for client and internal applications.
+
+### Juicy Kebab Platform
+A full-stack restaurant ecosystem. Built the backend to handle high-volume ordering, automated delivery routing, and a custom administrative dashboard to manage real-time store operations.
+
+### LabSync (Lab Test Generator)
+An offline-first desktop app built with Python and PySide6. Engineered for medical labs to manage patient data securely and generate structured PDF reports without an active internet connection.
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KhalilullahSadique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Khalilullah Sadique's GitHub stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilullahSadique&layout=compact&theme=radical" alt="Top languages"/>
 </p>
-<hr>
-<br>
+
+---
+
+## 🔗 Links & Contact
+
+- **Portfolio:** https://khalilullahsadique.vercel.app/
+- **LinkedIn:** [khalilullah-sadique](https://www.linkedin.com/in/khalilullah-sadique-17592825a/)
+- **Instagram:** [@khalilullahsadique](https://www.instagram.com/khalilullahsadique/)
+- **Discord:** [profile](https://discord.com/users/1195293510425911308)
+- **Threads:** [@khalilullahsadique](https://www.threads.com/@khalilullahsadique)
+- **Email:** [khalilullahsadique1334@gmail.com](mailto:khalilullahsadique1334@gmail.com)
