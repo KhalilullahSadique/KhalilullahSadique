@@ -45,8 +45,13 @@ An offline-first desktop app built with Python and PySide6. Engineered for medic
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KhalilullahSadique&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=86400" alt="Khalilullah Sadique's GitHub stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilullahSadique&layout=compact&theme=radical&cache_seconds=86400" alt="Top languages"/>
+  <a href="https://github.com/KhalilullahSadique">
+    <img src="https://streak-stats.demolab.com/?user=KhalilullahSadique&theme=radical&hide_border=true" alt="Khalilullah Sadique's GitHub streak stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhalilullahSadique&bg_color=141321&color=fe428e&line=fe428e&point=a9fef7&area_color=fe428e&title_color=fe428e&area=true&hide_border=true" alt="Khalilullah Sadique's contribution activity graph"/>
 </p>
 
 ---
