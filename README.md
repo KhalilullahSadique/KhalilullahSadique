@@ -13,9 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=KhalilullahSadique&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
-I am a full-stack engineer focused on backend systems, concurrency, and performance. Most of my time is spent writing Go, building web and mobile apps, and figuring out how to make services run faster and scale without breaking.
+I am a full-stack engineer focused on frontend/backend systems, concurrency, and performance. Most of my time is spent writing Go, building web and mobile apps, and figuring out how to make services run faster and scale without breaking.
 
-Right now, I am running engineering at **ErgonDevs** and building native mobile apps and concurrent backends.
+Right now, I am running engineering at **Devistic** and building native mobile apps and concurrent frontend/backends.
 
 ---
 
@@ -23,19 +23,17 @@ Right now, I am running engineering at **ErgonDevs** and building native mobile 
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend & Systems** | Golang, Node.js, gRPC, PostgreSQL, MongoDB |
+| **Backend & Systems** | Golang, Node.js,|
 | **Frontend & Mobile** | React, React Native, TypeScript, JavaScript (ES6+) |
-| **DevOps & Infrastructure** | Docker, Nginx, Systems Architecture |
 
 ---
 
 ## 🚀 Projects & Ventures
 
-### ErgonDevs
-Founder & Lead Engineer. Architecting MVP products, setting up automated deployment pipelines, and managing infrastructure for client and internal applications.
+### Devistic
+Co-founder. Architecting MVP products, setting up automated deployment pipelines, and managing infrastructure for client and internal applications along side Senior Engineer co-founders.
 
-### Juicy Kebab Platform
-A full-stack restaurant ecosystem. Built the backend to handle high-volume ordering, automated delivery routing, and a custom administrative dashboard to manage real-time store operations.
+
 
 ### LabSync (Lab Test Generator)
 An offline-first desktop app built with Python and PySide6. Engineered for medical labs to manage patient data securely and generate structured PDF reports without an active internet connection.
