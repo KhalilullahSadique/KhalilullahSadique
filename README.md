@@ -62,3 +62,4 @@ An offline-first desktop app built with Python and PySide6. Engineered for medic
 - **Discord:** [profile](https://discord.com/users/1195293510425911308)
 - **Threads:** [@khalilullahsadique](https://www.threads.com/@khalilullahsadique)
 - **Email:** [khalilullahsadique1334@gmail.com](mailto:khalilullahsadique1334@gmail.com)
+- **second Email:** [khalilthepro5@gmail.com](mailto:khalilullahsadique1334@gmail.com)
